@@ -2,4 +2,4 @@
 
 ## Artificial intelligence powered medical aid device for ophthalmology
 
-![Image](../images/base-architecture.png)
+![Image](https://raw.githubusercontent.com/mediceye-app/.github/main/images/base-architecture.png)
